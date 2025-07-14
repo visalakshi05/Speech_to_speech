@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-WDX: "WDXL Lubrifont TC", sans-serif; 
+  --color-gradblue: #8ec5fc;
+}
+
+:root{
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
