@@ -1,0 +1,9 @@
+sounddevice
+scipy
+numpy
+pygame
+requests
+gTTS
+faster-whisper
+langchain
+langchain-ollama
